@@ -21,6 +21,15 @@ tar -xzf GoFileBrowser-*.tar.gz
 - linux/amd64
 - linux/arm64
 
+## 当前版本
+
+`v0.1.0-dev`
+
+- linux/amd64：[下载](releases/v0.1.0-dev/GoFileBrowser-0.1.0-dev-df9ed54-linux-amd64.tar.gz) · [SHA256](releases/v0.1.0-dev/GoFileBrowser-0.1.0-dev-df9ed54-linux-amd64.tar.gz.sha256)
+- linux/arm64：[下载](releases/v0.1.0-dev/GoFileBrowser-0.1.0-dev-df9ed54-linux-arm64.tar.gz) · [SHA256](releases/v0.1.0-dev/GoFileBrowser-0.1.0-dev-df9ed54-linux-arm64.tar.gz.sha256)
+
+`Releases` 由 tag workflow 自动生成；如果暂时没有 Release，上面的原始文件链接也可直接下载。
+
 ## 文档
 
 - [用户指南](USER_GUIDE.md)
