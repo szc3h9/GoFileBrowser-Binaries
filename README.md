@@ -21,6 +21,28 @@ tar -xzf GoFileBrowser-*.tar.gz
 - linux/amd64
 - linux/arm64
 
+## 界面预览
+
+> 截图使用合成演示数据，不包含真实共享目录内容。
+
+### 文件浏览与目录打包
+
+点目录行的 `…`，可选择“下载为 ZIP / TAR.GZ”。
+
+![文件浏览与目录打包](screenshots/browse.png)
+
+### 搜索
+
+按文件名、目录名、扩展名搜索，结果带类型、路径、大小和时间。
+
+![搜索](screenshots/search.png)
+
+### Markdown 预览
+
+支持 CommonMark + GFM：表格、任务列表、代码块；服务端渲染并做 HTML 清洗。
+
+![Markdown 预览](screenshots/markdown.png)
+
 ## 当前版本
 
 `v0.1.0-dev`
